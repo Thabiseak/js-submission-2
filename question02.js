@@ -10,4 +10,3 @@ const employees = [
 const ageLimit = 30;
 
 console.log(filterEmployees(employees, ageLimit));
-
