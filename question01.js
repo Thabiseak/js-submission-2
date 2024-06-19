@@ -16,4 +16,4 @@ const transactions = [
     { type: "withdrawal", amount: 30 }
 ];
 
-console.log(groupByType(transactions));
+console.log(groupByType(transactions)); 
