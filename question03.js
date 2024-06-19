@@ -17,5 +17,5 @@ const classes = [
     ["Frank", "George", "Bob"]
 ];
 
-console.log(checkDuplicates(classes));
+console.log(checkDuplicates(classes)); 
 
